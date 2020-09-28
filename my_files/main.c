@@ -15,5 +15,7 @@ int main(){
         printf("%d ", func(arr[i]));
     }
 
+    printf("Goodbye\n");
+
     return 0;
 }
